@@ -6,3 +6,7 @@ add dev1
 
 test push origin
 
+test tree
+test GUI
+
+
